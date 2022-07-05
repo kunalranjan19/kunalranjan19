@@ -1,9 +1,11 @@
 # Kunal-Ranjan<h1 align="center">Hi 👋, I'm Kunal Ranjan</h1>
-<h3 align="center">A passionate frontend developer, Competitive coder, Open source contributor, Blockchain Enthusiast</h3>
+<h3 align="center">A passionate frontend developer, Competitive coder, Open source enthusiast, Blockchain Enthusiast</h3>
 
 - 🔭 I’m currently working on **Portfolio website**
 
 - 🌱 I’m currently learning **Front-end && Data structure & algorithm**
+
+- :people_holding_hands: I would love to collaborate on **Open-Source projects.**
 
 - 💬 Ask me about **HTML, C, java**
 
