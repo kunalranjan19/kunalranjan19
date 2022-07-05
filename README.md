@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Front-end && Data structure & algorithm**
 
-- :people_holding_hands: I would love to collaborate on **Open-Source projects.**
+- :people_holding_hands: I would love to collaborate on **Open-Source projects**
 
-- 💬 Ask me about **HTML, C, java**
+- 💬 Ask me about **C,Java,HTML**
 
 - 📫 How to reach me **ranjankunal103@gmail.com**
 
