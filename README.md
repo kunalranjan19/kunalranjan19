@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Portfolio website**
 
-- 🌱 I’m currently learning **Front-end && Data structure & algorithm**
+- 🌱 I’m currently learning **Front-end , Data Structure & Algorithm**
 
 - :people_holding_hands: I would love to collaborate on **Open-Source projects**
 
