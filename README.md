@@ -1,4 +1,5 @@
 # Kunal-Ranjan<h1 align="center">Hi 👋, I'm Kunal Ranjan</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalranjan19&label=Profile%20views&color=0e75b6&style=flat" alt="KunalRanjan" /> </p>
 <h3 align="center">A passionate frontend developer, Competitive coder, Open source enthusiast, Blockchain Enthusiast</h3>
 
 - 🔭 I’m currently working on **Portfolio website**
