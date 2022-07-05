@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Portfolio website**
 
-- 🌱 I’m currently learning **CSS, Javascript, Data structure & algorithm**
+- 🌱 I’m currently learning **Front-end && Data structure & algorithm**
 
 - 💬 Ask me about **HTML, C, java**
 
