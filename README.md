@@ -10,7 +10,7 @@
 
 - :people_holding_hands: I would love to collaborate on **Open-Source projects**
 
-- 💬 Ask me about **C,Java,HTML**
+- 💬 Ask me about **C,c++,Java,HTML,CSS**
 
 - 📫 How to reach me **ranjankunal103@gmail.com**
 
