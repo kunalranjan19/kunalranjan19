@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ranjankunal103@gmail.com**
 
-- ⚡ Fun fact **I enjoy playing Mobile games**
+- ⚡ Fun fact **I enjoy playing Mobile Games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
