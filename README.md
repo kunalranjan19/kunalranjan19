@@ -4,7 +4,7 @@
 </h3>
 
 
-- 🔭 I’m currently working on **Portfolio Website** 
+- 🔭 I’m currently working on **Side project** 
 
 - 🌱 I’m currently learning **Front-End , Data Structure & Algorithm**
 
