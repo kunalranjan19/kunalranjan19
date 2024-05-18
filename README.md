@@ -34,5 +34,5 @@
 <h3 align="left">Framework:</h3>
 <p align="left"> <a href="https://www.w3schools.com/REACT/DEFAULT.ASP" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
 <h3 align="left">Tool:</h3>
-<p align="left"> <a href="https://www.w3schools.com/REACT/DEFAULT.ASP" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
+<p align="left"> <a href="https://git-scm.com/about" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalranjan19&" alt="kunalranjan19" /></p>
