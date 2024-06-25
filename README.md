@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **C,C++,Java,Python,HTML,CSS,JavaScript**
 
-- 📫 How to reach me **ranjankunal103@gmail.com**
+- 📫 How to reach me **kunalranjan.dev@gmail.com**
 
 - ⚡ Fun fact **NPM and Composer are my package manager**
 
