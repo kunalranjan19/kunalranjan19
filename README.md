@@ -1,6 +1,6 @@
 # Kunal-Ranjan<h1 align="center">Hi,👋 I'm Kunal Ranjan</h1>
 
-<h3 align="center">Aspiring to become a data scientist and AI/ML enthusiast, with a keen interest in contributing to open-source projects.<br><br><p align="right"> <img src="https://komarev.com/ghpvc/?username=kunalranjan19&label=Profile%20views&color=0e75b6&style=flat" alt="KunalRanjan" /> </p>
+<h3 align="center"> An Aspiring Data Scientist and AI/ML enthusiast, with a keen interest in contributing to open-source projects.<br><br><p align="right"> <img src="https://komarev.com/ghpvc/?username=kunalranjan19&label=Profile%20views&color=0e75b6&style=flat" alt="KunalRanjan" /> </p>
 </h3>
 
 
