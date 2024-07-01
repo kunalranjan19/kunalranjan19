@@ -1,20 +1,20 @@
 # Kunal-Ranjan<h1 align="center">Hi,👋 I'm Kunal Ranjan</h1>
 
-<h3 align="center">A passionate front-end developer, Open Source, ML & Blockchain Enthusiast<br><br><p align="right"> <img src="https://komarev.com/ghpvc/?username=kunalranjan19&label=Profile%20views&color=0e75b6&style=flat" alt="KunalRanjan" /> </p>
+<h3 align="center">Aspiring to become a data scientist and AI/ML enthusiast, with a keen interest in contributing to open-source projects.<br><br><p align="right"> <img src="https://komarev.com/ghpvc/?username=kunalranjan19&label=Profile%20views&color=0e75b6&style=flat" alt="KunalRanjan" /> </p>
 </h3>
 
 
-- 🔭 I’m currently working on **Side project** 
+- 🔭 I’m currently working on **ML-project** 
 
-- 🌱 I’m currently learning **Front-End , Data Structure & Algorithm**
+- 🌱 I’m currently learning **Neural Networks**
 
 - :people_holding_hands: I would love to collaborate on **Open-Source projects**
 
-- 💬 Ask me about **C,C++,Java,Python,HTML,CSS,JavaScript**
+- 💬 Have any doubt? Ask me about **Python,Numpy,Pandas,Matplotlib,Seaborn,SQL, ML Algo,Java,C,C++,HTML,CSS,JavaScript**
 
 - 📫 How to reach me **kunalranjan.dev@gmail.com**
 
-- ⚡ Fun fact **NPM and Composer are my package manager**
+- ⚡ Fun fact **Jupyter is my notebook**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
