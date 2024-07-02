@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **ML-project** 
 
-- 🌱 I’m currently learning **Neural Networks**
+- 🌱 I’m currently Preparing for **CLF-C02**
 
 - :people_holding_hands: I would love to collaborate on **Open-Source projects**
 
