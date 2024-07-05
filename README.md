@@ -33,7 +33,7 @@
 
 <h3 align="left">Libraries:</h3>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40"/></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a></p>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
 <a href="https://matplotlib.org/stable/tutorials/pyplot.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/></a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://images.app.goo.gl/BTDFE3un3g6bKNZr6" alt="Seaborn" width="40" height="40"/></a>
 <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src="https://images.app.goo.gl/YocZ7t1yw5LRLtkG9" alt="scikit-learn" width="40" height="40"/></a></p>
