@@ -38,4 +38,4 @@
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://images.app.goo.gl/BTDFE3un3g6bKNZr6" alt="Seaborn" width="40" height="40"/></a>
 <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src="https://images.app.goo.gl/YocZ7t1yw5LRLtkG9" alt="scikit-learn" width="40" height="40"/></a></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Badalsingh07&" alt="" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalranjan19&" alt="" /></p>
