@@ -39,5 +39,6 @@
 <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src="https://images.app.goo.gl/YocZ7t1yw5LRLtkG9" alt="scikit-learn" width="40" height="40"/></a></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalranjan19&" alt="" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/kunalranjan19/github-readme-stats)
 
 ![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunalranjan19&show_icons=true)
