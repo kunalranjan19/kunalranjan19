@@ -10,21 +10,21 @@
 
 - :people_holding_hands: I would love to collaborate on **Open-Source projects**
 
-- 💬 Have any doubts? Ask me about **Python, Numpy, Pandas, Matplotlib, Seaborn, SQL, ML Algo, Java, C, C++, HTML, CSS, JavaScript**
+- 💬 Have any doubts? Ask me about **Python, Numpy, Pandas, Matplotlib, Seaborn, SQL, ML Algo, Java, C**
 
 - 📫 How to reach me **kunalranjan.dev@gmail.com**
 
 - ⚡ Fun fact **Jupyter is my notebook**
 
 # 🐬 Socials
-<a href="https://linkedin.com/in/kunalranjan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="50" alt="LinkedIn Badge"/></a> <a href="https://twitter.com/kunalranjan19_"><img src="https://cdn-icons-png.flaticon.com/256/14417/14417709.png" height="50" alt="Twitter Badge"/></a>
+<a href="https://www.linkedin.com/in/kunal-ranjan-8b6b33328/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="50" alt="LinkedIn Badge"/></a> <a href="https://twitter.com/kunalranjan19_"><img src="https://cdn-icons-png.flaticon.com/256/14417/14417709.png" height="50" alt="Twitter Badge"/></a>
 
 # <img src="https://cdn-icons-png.flaticon.com/128/2276/2276313.png" height="30" alt="Toolbox"> Toolbox
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,mysql,html,css,javascript&theme=light)](https://github.com/Nishant891)
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,mysql,html,css,javascript&theme=light)](https://github.com/kunalranjan19)
 
 # 📚 Libraries
 
-<a href="https://linkedin.com/in/kunalranjan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="50"/></a> <a href="https://linkedin.com/in/kunalranjan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="50"/></a> | <a href="https://linkedin.com/in/kunalranjan"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="50"/></a> <a href="https://linkedin.com/in/kunalranjan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="50"/> </a>
+<a href="https://linkedin.com/in/kunal-ranjan-8b6b33328"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="50"/></a> <a href="https://linkedin.com/in/kunal-ranjan-8b6b33328"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="50"/></a> | <a href="https://linkedin.com/in/kunal-ranjan-8b6b33328"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="50"/></a> <a href="https://linkedin.com/in/kunal-ranjan-8b6b33328"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="50"/> </a>
 | ------------- | ------------- |
 
 
